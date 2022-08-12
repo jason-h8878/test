@@ -1,0 +1,5 @@
+#Git忽略這些規則寫在.gitignore 的檔案裡就可以了。以下示範幾個規則：
+
+
+#忽略Readme2.txt的檔案
+Readme2.txt
